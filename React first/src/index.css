@@ -1,0 +1,8 @@
+.main-btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 25px;
+  cursor: pointer;
+  display: block;
+}
